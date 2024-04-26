@@ -1,4 +1,4 @@
-# Twitter_Data_Pipeline
+# Twitter Data_Pipeline
 
 ![TWITTER](https://github.com/sandhya71/Twitter_Data_Pipeline/assets/53564959/ec4925da-0806-4d2e-b0ef-50611e15c6c5)
 
